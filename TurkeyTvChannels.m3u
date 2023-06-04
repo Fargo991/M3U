@@ -1,0 +1,596 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="STAR TV" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL",STAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=startvdvr.blutv.com
+https://startvdvr.blutv.com/blutv_startv_dvr2/live.m3u8
+				
+#EXTINF:-1 tvg-name="SHOW TV" tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="ULUSAL",SHOW TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=showtvdvr.blutv.com
+https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="FOX TV" tvg-logo="https://i.ibb.co/4tyCssZ/fox.png" group-title="ULUSAL",FOX TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=foxtvdvr.blutv.com
+https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="ULUSAL",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=trt1dvr.blutv.com/
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="ULUSAL",KANAL 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=kanal7dvr.blutv.com
+https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT 2" tvg-logo="https://i.ibb.co/TB5N8cN/trt2.png" group-title="ULUSAL",TRT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trt2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT DİYANET ÇOCUK" tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png" group-title="ÇOCUK/EĞİTİM",TRT DİYANET ÇOCUK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtcocukdiyanet/live.m3u8
+
+#EXTINF:-1 tvg-name="360 TV" tvg-logo="https://i.ibb.co/FVnG3Zr/360tv.png" group-title="ULUSAL",360 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_360tv_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="BLU TV PLAY 1" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/6295d4b4866ac31658881736" group-title="DİZİ/SİNEMA",BLU TV PLAY 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="BLU TV PLAY 2" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/70x70/6295d42d866ac31658881732" group-title="DİZİ/SİNEMA",BLU TV PLAY 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:ps-643e9993fb6fc118b5bdc285-qpalwses.veset.cloud
+https://ps-643e9993fb6fc118b5bdc285-qpalwses.veset.cloud/hls/output_stream_name/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇOCUK/EĞİTİM",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://s1.superonline.net/SiteAssets/Genel/channels/eurosport_1.png?v=20171027101217" group-title="SPOR",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://s3.superonline.net/SiteAssets/Genel/channels/eurosport_2.png?v=20171027101243" group-title="SPOR",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="BELGESEL/YAŞAM",DISCOVERY ID
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:dnx8nkmlprapr.cloudfront.net
+https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" group-title="ULUSAL",BEYAZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:beyaztvdvr.blutv.com
+https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA İLKOKUL" tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png" group-title="ÇOCUK/EĞİTİM",TRT EBA İLKOKUL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ebai2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA ORTAOKUL" tvg-logo="https://i.ibb.co/1JbF8xB/ortaoku22.png.png" group-title="ÇOCUK/EĞİTİM",TRT EBA ORTAOKUL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT EBA LİSE" tvg-logo="https://i.ibb.co/v42mWjF/lise22.png" group-title="ÇOCUK/EĞİTİM",TRT EBA LİSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
+
+#EXTINF:-1 tvg-name="ÜLKE TV" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="HABER",ÜLKE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT TÜRK" tvg-logo="https://i.ibb.co/swtn1kV/trtturk.png" group-title="ULUSAL",TRT TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtturk2/live.m3u8
+
+#EXTINF:-1 tvg-name="KON TV" tvg-logo="https://seeklogo.com/images/K/kontv-logo-26656D89C2-seeklogo.com.png" group-title="ULUSAL",KON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
+
+#EXTINF:-1 tvg-name="KANAL B" tvg-logo="http://www.kanalb.com.tr/assets/images/logo/1683890679Kanal_B_logosu.png" group-title="HABER",KANAL B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+
+#EXTINF:-1 tvg-name="EKO TÜRK" tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="HABER",EKO TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
+
+#EXTINF:-1 tvg-name="VUSLAT MALATYA" tvg-logo="https://www.malatyavuslattv.com/images/banner/malatya_vuslat_logo.png" group-title="YEREL",VUSLAT MALATYA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_vuslattv2/live.m3u8
+
+#EXTINF:-1 tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="ÇOCUK/EĞİTİM",BOOMERANG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_boomerang/live.m3u8
+
+#EXTINF:-1 tvg-name="ER TV" tvg-logo="https://www.malatyam.com/foto/medya/er-tv.png" group-title="YEREL",ER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ertv2/live.m3u8
+
+#EXTINF:-1 tvg-name="DİYANET TV" tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="DİNİ",DİYANET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_diyanet2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT ARABIA" tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png" group-title="HABER",TRT ARABIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT KURDI" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-kurdi-televizyon-kanali.3f1cba4.png" group-title="HABER",TRT KURDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtkurdi2/smil:trtkurdi.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:ntvdvr.blutv.com
+https://ntvdvr.blutv.com/blutv_ntv_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="HABER",CNN TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT HABER" tvg-logo="https://i.ibb.co/Bt6frts/trthaber.png" group-title="HABER",TRT HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:trthaberdvr.blutv.com
+https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="HABERTÜRK" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="HABER",HABERTÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:haberturkdvr.blutv.com
+https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="HABER GLOBAL" tvg-logo="https://i.ibb.co/k58p7P2/hglobal.png" group-title="HABER",HABER GLOBAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="KRT" tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="HABER",KRT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_krt_live_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="24" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="HABER",24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:kanal24.blutv.com
+https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
+
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SÖZCÜ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_szctv_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="TV 100" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_tv1002_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="TELE 1" tvg-logo="https://i.ibb.co/4Mhmggc/tele1.png" group-title="HABER",TELE 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:tele1dvr.blutv.com
+https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_tgrthaber2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="HALK TV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="HABER",HALK TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_halktv2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="HABER",BLOOMBERG HT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT WORLD" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="HABER",TRT WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+
+#EXTINF:-1 tvg-name="BBN TÜRK" tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png" group-title="HABER",BBN TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
+
+#EXTINF:-1 tvg-name="FLASH HABER" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" group-title="BELGESEL/YAŞAM",TLC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:tlcdvr.blutv.com
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" group-title="BELGESEL/YAŞAM",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_dmax_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="WOMAN" tvg-logo="https://i.ibb.co/DKHDfbr/wmtv.png" group-title="BELGESEL/YAŞAM",WOMAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_womantv/womantv_sd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" group-title="BELGESEL/YAŞAM",TRT BELGESEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtbelgesel_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="SPOR",TRT SPOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtspor_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-logo="https://i.ibb.co/ky3qVPc/trtspory2.png" group-title="SPOR",TRT SPOR YILDIZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-name="SPORTS TV" tvg-logo="https://i.ibb.co/4Rm7Z6Z/sports22.png" group-title="SPOR",SPORTS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
+
+#EXTINF:-1 tvg-name="BİZİM EV TV" tvg-logo="https://i.ibb.co/1Ty8Z3X/bizimev.png" group-title="BELGESEL/YAŞAM",BİZİM EV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_bizimev/bizimev_sd.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="TV 4" tvg-logo="https://i.ibb.co/pXncfpb/tv422.png" group-title="ULUSAL",TV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
+
+#EXTINF:-1 tvg-name="MİLYON TV" tvg-logo="https://i.ibb.co/Jqzzby7/milyontv.png" group-title="MÜZİK",MİLYON TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_milyontv/milyontv_sd.smil/index.m3u8
+
+#EXTINF:-1 tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="ÇOCUK/EĞİTİM",TRT ÇOCUK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtcocuk_2/smil:trtcocuk.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK" tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png" group-title="MÜZİK",NUMBER ONE TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE" tvg-logo="https://i.ibb.co/bQHyST5/nr1tv.png" group-title="MÜZİK",NUMBER ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
+
+#EXTINF:-1 tvg-name="POWER TÜRK" tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png" group-title="MÜZİK",POWER TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="POWER TV" tvg-logo="https://i.ibb.co/xhfcTC7/powertv.png" group-title="MÜZİK",POWER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_power2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT MÜZİK" tvg-logo="https://i.ibb.co/d6Zfm2P/trtmuzik21c.png" group-title="MÜZİK",TRT MÜZİK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://www.trt.net.tr/_nuxt/img/trt-muzik-televizyon-kanali.4fe1e86.png
+
+#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+
+#EXTINF:-1 tvg-name="TV 8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL",TV 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+
+#EXTINF:-1 tvg-name="DHA" tvg-logo="https://i.ibb.co/K6BKFqY/dha.png" group-title="HABER",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TBMM TV" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="HABER",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-name="ANADOLU AJANSI" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="HABER",ANADOLU AJANSI
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ULUSAL TV" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="HABER",ULUSAL TV
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+
+#EXTINF:-1 tvg-name="TV 5" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="HABER",TV 5
+https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
+
+#EXTINF:-1 tvg-name="BENGÜ TÜRK" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="HABER",BENGÜ TÜRK
+https://live.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
+
+#EXTINF:-1 tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A HABER
+https://live.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
+
+#EXTINF:-1 tvg-name="TV NET" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="HABER",TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AKİT TV" tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="HABER",AKİT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:-1 tvg-name="ARTI TV" tvg-logo="https://i.ibb.co/y04nCSJ/artii.png" group-title="HABER",ARTI TV
+https://live.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
+
+#EXTINF:-1 tvg-name="YOL TV" tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="HABER",YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+
+#EXTINF:-1 tvg-name="TEVE 2" tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="ULUSAL",TEVE 2
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TIVI 6" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="ULUSAL",TIVI 6
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CINE 1" tvg-logo="https://i.ibb.co/SnPFhXS/cnee12.png" group-title="BELGESEL/YAŞAM",CINE 1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS HABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="SPOR",BEIN SPORTS HABER
+https://live.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+
+#EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="SPOR",A SPOR
+https://live.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
+
+#EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="SPOR",FENERBAHÇE TV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fbtv.m3u8
+
+#EXTINF:-1 tvg-name="GALATASARAY TV" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="SPOR",GALATASARAY TV
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+
+#EXTINF:-1 tvg-name="KRAL POP" tvg-logo="https://i.ibb.co/6401NQw/kraltv.png" group-title="MÜZİK",KRAL POP
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv.m3u8
+
+#EXTINF:-1 tvg-name="DREAM TÜRK" tvg-logo="https://i.ibb.co/4SsJS4R/dreamturk.png" group-title="MÜZİK",DREAM TÜRK
+https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER TÜRK TAPTAZE" tvg-logo="https://i.ibb.co/wy1H8jM/pturkttaze.png" group-title="MÜZİK",POWER TÜRK TAPTAZE
+http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER TÜRK EN İYİLER" tvg-logo="https://i.ibb.co/xS417WJ/pturkiyiler.png" group-title="MÜZİK",POWER TÜRK EN İYİLER
+http://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER PLUS +" tvg-logo="https://i.ibb.co/cQX06mR/pplus.png" group-title="MÜZİK",POWER PLUS +
+http://livetv.powerapp.com.tr/pplustv/pplustv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER TÜRK SLOW" tvg-logo="https://i.ibb.co/rZxNWKv/pslow.png" group-title="MÜZİK",POWER TÜRK SLOW
+http://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER TÜRK AKUSTİK" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="MÜZİK",POWER TÜRK AKUSTİK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER TÜRK AKUSTİK" tvg-logo="https://i.ibb.co/FgCW885/pturkakustik.png" group-title="MÜZİK",POWER TÜRK AKUSTİK
+http://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK AŞK" tvg-logo="https://i.ibb.co/jJWLsCQ/nr1ask.jpg" group-title="MÜZİK",NUMBER ONE TÜRK AŞK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DAMAR" tvg-logo="https://i.ibb.co/824MwJ6/nr1damar.jpg" group-title="MÜZİK",NUMBER ONE TÜRK DAMAR
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NUMBER ONE TÜRK DANCE" tvg-logo="https://i.ibb.co/LR5v10B/nr1dance.jpg" group-title="MÜZİK",NUMBER ONE TÜRK DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER DANCE" tvg-logo="https://i.ibb.co/FVNL477/pdance.png" group-title="MÜZİK",POWER DANCE
+http://livetv.powerapp.com.tr/dance/dance.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="POWER LOVE" tvg-logo="https://i.ibb.co/VLQ6cmV/plove.png" group-title="MÜZİK",POWER LOVE
+http://livetv.powerapp.com.tr/plove/love.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TRT AVAZ" tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="ULUSAL",TRT AVAZ
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="LALEGÜL TV" tvg-logo="https://i.ibb.co/wrL2khn/lalegul.png" group-title="DİNİ",LALEGÜL TV
+https://lbl.netmedya.net/hls/lalegultv.m3u8
+
+#EXTINF:-1 tvg-name="SEMERKAND" tvg-logo="https://i.ibb.co/k8L3Mq1/semerkandtv.png" group-title="DİNİ",SEMERKAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://playercache.mediatriple.net/
+#EXTVLCOPT:http-origin=https://playercache.mediatriple.net
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=playercache.mediatriple.net
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SPOR",BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-origin=https://ntuplay.xyz
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=ddy1.cdnhks.lol
+https://ddy1.cdnhks.lol/ddy1/premium62/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-origin=https://ntuplay.xyz
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=ddy1.cdnhks.lol
+https://ddy1.cdnhks.lol/ddy1/premium63/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="SPOR",BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-origin=https://ntuplay.xyz
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=ddy1.cdnhks.lol
+https://ddy1.cdnhks.lol/ddy1/premium64/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="SPOR",BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0
+#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
+#EXTVLCOPT:http-origin=https://ntuplay.xyz
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=ddy1.cdnhks.lol
+https://ddy1.cdnhks.lol/ddy1/premium67/tracks-v1a1/mono.m3u8
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
