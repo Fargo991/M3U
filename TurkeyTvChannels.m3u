@@ -567,6 +567,16 @@ https://ddy1.cdnhks.lol/ddy1/premium64/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=ddy1.cdnhks.lol
 https://ddy1.cdnhks.lol/ddy1/premium67/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="KABLOWEBTV" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="TEST",KABLOWEBTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.kablowebtv.com/
+#EXTVLCOPT:http-origin=https://www.kablowebtv.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-cookie=ASP.NET_SessionId=klzdsxrl5rptypvzcaoghbim; emwId=51093b0c-e1a6-4684-81dc-16af380240e1; eSessionId=35012045
+#EXTVLCOPT:http-host=live4pop03.kablowebtv.com
+https://live4pop03.kablowebtv.com/Live/HLS/4073/2500.m3u8
+				
 				
 
 
