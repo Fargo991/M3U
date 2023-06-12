@@ -541,7 +541,13 @@ https://live.cache-stream.workers.dev/stream/UCzzylIZKbeIDhohxAaQFy1Q/live.m3u8
 
 #EXTINF:-1 tvg-name="TV 8.5" tvg-logo="https://www.tv8bucuk.com/s/template/v2/img/tv8bucuk_logo.png" group-title="SPOR",TV 8.5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-https://tv8-live.daioncdn.net/bucuk/tv8bucuk.m3u8
+#EXTVLCOPT:http-referrer=https://www.donmaztv.com/
+#EXTVLCOPT:http-origin=https://www.donmaztv.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=cdn3.alfastreamtv.com
+https://cdn3.alfastreamtv.com/tv85.m3u8
+
+
 
 
 
