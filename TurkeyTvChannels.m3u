@@ -545,7 +545,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-origin=https://www.tv8bucuk.com
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=tv8-tb-live.ercdn.net
-https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8
+https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8?
 
 
 
