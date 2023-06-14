@@ -539,13 +539,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d91
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR
 https://live.cache-stream.workers.dev/stream/UCzzylIZKbeIDhohxAaQFy1Q/live.m3u8
 
-#EXTINF:-1 tvg-name="TV 8.5" tvg-logo="https://www.tv8bucuk.com/s/template/v2/img/tv8bucuk_logo.png" group-title="SPOR",TV 8.5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.donmaztv.com/
-#EXTVLCOPT:http-origin=https://www.donmaztv.com
+#EXTINF:-1 tvg-name="TV 8,5" tvg-logo="https://files.sikayetvar.com/lg/cmp/23/239124.png?1648044928" group-title="SPOR",TV 8,5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://www.tv8bucuk.com/
+#EXTVLCOPT:http-origin=https://www.tv8bucuk.com
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=cdn3.alfastreamtv.com
-https://cdn3.alfastreamtv.com/tv85.m3u8
+#EXTVLCOPT:http-host=tv8-tb-live.ercdn.net
+https://tv8-tb-live.ercdn.net/tv8bucuk/tv8bucuk.m3u8
 
 
 
