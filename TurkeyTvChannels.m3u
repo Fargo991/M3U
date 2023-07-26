@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SPOR",BEIN SPORTS 1
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://www.atomsportv102.site/
-#EXTVLCOPT:http-origin=https://www.atomsportv102.site
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=osenebusenekizlar.volestream-naber-kizlar.workers.dev
-https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/bein1.m3u8
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -17,11 +17,11 @@ https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/bein2.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="SPOR",BEIN SPORTS 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://www.atomsportv102.site/
-#EXTVLCOPT:http-origin=https://www.atomsportv102.site
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=osenebusenekizlar.volestream-naber-kizlar.workers.dev
-https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/bein3.m3u8
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/6.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="SPOR",BEIN SPORTS 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -54,6 +54,54 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=osenebusenekizlar.volestream-naber-kizlar.workers.dev
 https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/max2.m3u8
+
+#EXTINF:-1 tvg-name="TEST 1" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/5.m3u8
+
+#EXTINF:-1 tvg-name="TEST 2" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/7.m3u8
+
+#EXTINF:-1 tvg-name="TEST 3" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/1.m3u8
+
+#EXTINF:-1 tvg-name="TEST 4" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/2.m3u8
+
+#EXTINF:-1 tvg-name="TEST 5" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/3.m3u8
+
+#EXTINF:-1 tvg-name="TEST 6" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
