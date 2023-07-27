@@ -9,11 +9,11 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://www.atomsportv102.site/
-#EXTVLCOPT:http-origin=https://www.atomsportv102.site
+#EXTVLCOPT:http-referrer=https://extrabettv40.com/
+#EXTVLCOPT:http-origin=https://extrabettv40.com
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=osenebusenekizlar.volestream-naber-kizlar.workers.dev
-https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/bein2.m3u8
+#EXTVLCOPT:http-host=wnz6.129cf10864ad0e.cdn.fdcservers.com
+https://wnz6.129cf10864ad0e.cdn.fdcservers.com/assets/4.js
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="SPOR",BEIN SPORTS 3
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
