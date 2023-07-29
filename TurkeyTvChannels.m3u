@@ -220,8 +220,8 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvbetticket6.com/
 #EXTVLCOPT:http-origin=https://tvbetticket6.com
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=noxcdn-l.xyz
-https://noxcdn-l.xyz/cdn/tivibu-spor-2.css
+#EXTVLCOPT:http-host=mix.vi2.workers.dev
+https://mix.vi2.workers.dev/tivibu-spor-2.m3u8
 
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT
