@@ -215,6 +215,14 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/20.m3u8
 
+#EXTINF:-1 tvg-name="TEST 21" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 21
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvbetticket6.com/
+#EXTVLCOPT:http-origin=https://tvbetticket6.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=noxcdn-l.xyz
+https://noxcdn-l.xyz/cdn/tivibu-spor-2.css
+
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
