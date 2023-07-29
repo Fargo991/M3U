@@ -405,7 +405,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-origin=https://kist.4macekle.com
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=cdn.finlabam.tk
-https://cdn.finlabam.tk/test/chann3/playlist.m3u8
+https://cdn.finlabam.tk/test/chann3/playlist.m3u8?token=33b9a4d09decbba5c74fcdcb154b4b07
 
 #EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
