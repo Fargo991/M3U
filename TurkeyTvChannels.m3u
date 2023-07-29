@@ -399,6 +399,14 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-host=ddy2.cdndac.lol
 https://ddy2.cdndac.lol/ddy2/premium455/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TEST 44" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 44
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://kist.4macekle.com/
+#EXTVLCOPT:http-origin=https://kist.4macekle.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=cdn.finlabam.tk
+https://cdn.finlabam.tk/test/chann3/playlist.m3u8
+
 #EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
