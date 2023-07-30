@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SPOR",BEIN SPORTS 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -8,7 +8,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://extrabettv40.com/
 #EXTVLCOPT:http-origin=https://extrabettv40.com
 #EXTVLCOPT:http-accept=*/*
@@ -16,7 +16,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://wnz6.129cf10864ad0e.cdn.fdcservers.com/assets/4.js
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="SPOR",BEIN SPORTS 3
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -24,7 +24,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/6.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="SPOR",BEIN SPORTS 4
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://www.atomsportv102.site/
 #EXTVLCOPT:http-origin=https://www.atomsportv102.site
 #EXTVLCOPT:http-accept=*/*
@@ -32,7 +32,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/bein4.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="SPOR",BEIN SPORTS 5
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://www.atomsportv102.site/
 #EXTVLCOPT:http-origin=https://www.atomsportv102.site
 #EXTVLCOPT:http-accept=*/*
@@ -40,7 +40,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/bein5.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png" group-title="SPOR",BEIN SPORTS MAX 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://www.atomsportv102.site/
 #EXTVLCOPT:http-origin=https://www.atomsportv102.site
 #EXTVLCOPT:http-accept=*/*
@@ -48,7 +48,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/max1.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png" group-title="SPOR",BEIN SPORTS MAX 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://www.atomsportv102.site/
 #EXTVLCOPT:http-origin=https://www.atomsportv102.site
 #EXTVLCOPT:http-accept=*/*
@@ -56,7 +56,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://osenebusenekizlar.volestream-naber-kizlar.workers.dev/hls/max2.m3u8
 
 #EXTINF:-1 tvg-name="TEST 1" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 1
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -64,7 +64,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/1.m3u8
 
 #EXTINF:-1 tvg-name="TEST 2" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -72,7 +72,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/2.m3u8
 
 #EXTINF:-1 tvg-name="TEST 3" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 3
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -80,7 +80,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/3.m3u8
 
 #EXTINF:-1 tvg-name="TEST 4" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 4
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -88,7 +88,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/4.m3u8
 
 #EXTINF:-1 tvg-name="TEST 5" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 5
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -96,7 +96,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/5.m3u8
 
 #EXTINF:-1 tvg-name="TEST 6" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 6
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -104,7 +104,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/6.m3u8
 
 #EXTINF:-1 tvg-name="TEST 7" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 7
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -112,7 +112,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/7.m3u8
 
 #EXTINF:-1 tvg-name="TEST 8" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 8
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -120,7 +120,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 
 #EXTINF:-1 tvg-name="TEST 9" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 9
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -128,7 +128,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/9.m3u8
 
 #EXTINF:-1 tvg-name="TEST 10" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 10
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -136,7 +136,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/10.m3u8
 
 #EXTINF:-1 tvg-name="TEST 11" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 11
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -144,7 +144,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/11.m3u8
 
 #EXTINF:-1 tvg-name="TEST 12" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 12
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -152,7 +152,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 
 #EXTINF:-1 tvg-name="TEST 13" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 13
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -160,7 +160,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/13.m3u8
 
 #EXTINF:-1 tvg-name="TEST 14" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 14
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -168,7 +168,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/14.m3u8
 
 #EXTINF:-1 tvg-name="TEST 15" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 15
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -176,7 +176,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/15.m3u8
 
 #EXTINF:-1 tvg-name="TEST 16" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 16
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -184,7 +184,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/16.m3u8
 
 #EXTINF:-1 tvg-name="TEST 17" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 17
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -192,7 +192,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/17.m3u8
 
 #EXTINF:-1 tvg-name="TEST 18" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 18
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -200,7 +200,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/18.m3u8
 
 #EXTINF:-1 tvg-name="TEST 19" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 19
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -208,7 +208,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/19.m3u8
 
 #EXTINF:-1 tvg-name="TEST 20" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 20
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -216,7 +216,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/20.m3u8
 
 #EXTINF:-1 tvg-name="TEST 21" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 21
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -224,7 +224,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/21.m3u8
 
 #EXTINF:-1 tvg-name="TEST 22" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 22
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -232,7 +232,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/22.m3u8
 
 #EXTINF:-1 tvg-name="TEST 23" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 23
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -240,7 +240,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/23.m3u8
 
 #EXTINF:-1 tvg-name="TEST 24" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 24
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -248,7 +248,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/24.m3u8
 
 #EXTINF:-1 tvg-name="TEST 25" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 25
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -256,7 +256,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/25.m3u8
 
 #EXTINF:-1 tvg-name="TEST 26" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 26
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -264,7 +264,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/26.m3u8
 
 #EXTINF:-1 tvg-name="TEST 27" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 27
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -272,7 +272,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/27.m3u8
 
 #EXTINF:-1 tvg-name="TEST 28" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 28
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -280,7 +280,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/28.m3u8
 
 #EXTINF:-1 tvg-name="TEST 29" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 29
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -288,7 +288,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/29.m3u8
 
 #EXTINF:-1 tvg-name="TEST 30" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 30
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -296,7 +296,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/30.m3u8
 
 #EXTINF:-1 tvg-name="TEST 31" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 31
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -304,7 +304,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/31.m3u8
 
 #EXTINF:-1 tvg-name="TEST 32" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 32
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -312,7 +312,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/32.m3u8
 
 #EXTINF:-1 tvg-name="TEST 33" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 33
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -320,7 +320,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/33.m3u8
 
 #EXTINF:-1 tvg-name="TEST 34" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 34
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -328,7 +328,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/34.m3u8
 
 #EXTINF:-1 tvg-name="TEST 35" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 35
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -336,7 +336,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/35.m3u8
 
 #EXTINF:-1 tvg-name="TEST 36" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 36
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -344,7 +344,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/36.m3u8
 
 #EXTINF:-1 tvg-name="TEST 37" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 37
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -352,7 +352,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/37.m3u8
 
 #EXTINF:-1 tvg-name="TEST 38" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 38
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -360,7 +360,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/38.m3u8
 
 #EXTINF:-1 tvg-name="TEST 39" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 39
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -368,7 +368,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/39.m3u8
 
 #EXTINF:-1 tvg-name="TEST 40" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 40
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -376,35 +376,43 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/40.m3u8
 
 #EXTINF:-1 tvg-name="TEST 41" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 41
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
 #EXTVLCOPT:http-origin=https://olahdplay.xyz
 #EXTVLCOPT:http-accept=*/*
 https://webudit.cdndac.lol/lb/premium62/index.m3u8
 
 #EXTINF:-1 tvg-name="TEST 42" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 42
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
 #EXTVLCOPT:http-origin=https://olahdplay.xyz
 #EXTVLCOPT:http-accept=*/*
 https://ddh1.cdndac.lol/ddh1/premium62/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TEST 43" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 43
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
 #EXTVLCOPT:http-origin=https://olahdplay.xyz
 #EXTVLCOPT:http-accept=*/*
 https://ddy2.cdndac.lol/ddy2/premium455/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TEST 44" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 44
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://kist.4macekle.com/
 #EXTVLCOPT:http-origin=https://kist.4macekle.com
 #EXTVLCOPT:http-accept=*/*
 https://cdn.finlabam.tk/test/chann3/playlist.m3u8?token=33b9a4d09decbba5c74fcdcb154b4b07
 
+#EXTINF:-1 tvg-name="TEST 45" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 45
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
+#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=patlak.trgoals430.xyz
+https://patlak.trgoals430.xyz/yayinstar.m3u8
+
 #EXTINF:-1 tvg-name="S SPORT" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
@@ -412,7 +420,7 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/7.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="SPOR",S SPORT 2
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
