@@ -120,6 +120,13 @@ https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 
+#EXTINF:-1 tvg-name="TRT 8,5" tvg-logo="https://i.hbrcdn.com/haber/2022/10/12/tv8-5-8-bucuk-canli-izle-12-ekim-2022-tv-8-5-15355125_5401_amp.jpg" group-title="SPOR",TRT 8,5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/25.m3u8
+
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="SPOR",TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.blutv.com/
@@ -543,6 +550,20 @@ https://showtvdvr.blutv.com/blutv_showtv_dvr2/live.m3u8
 #EXTVLCOPT:http-host=foxtvdvr.blutv.com
 https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 
+#EXTINF:-1 tvg-name="ATV" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=391" group-title="ULUSAL",ATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/8.m3u8
+
+#EXTINF:-1 tvg-name="TRT 4K" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-4k-televizyon-kanali.2aae74a.png" group-title="ULUSAL",TRT 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/40.m3u8
+
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="ULUSAL",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.blutv.com/
@@ -772,7 +793,18 @@ https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 https://live.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 
 #EXTINF:-1 tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A HABER
-https://live.cache-stream.workers.dev/stream/UCKQhfw-lzz0uKnE1fY1PsAA/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/51.m3u8
+
+#EXTINF:-1 tvg-name="A PARA" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA=w240-h480-rw" group-title="HABER",A PARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/53.m3u8
 
 #EXTINF:-1 tvg-name="TV NET" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="HABER",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
