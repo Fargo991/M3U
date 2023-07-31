@@ -649,11 +649,7 @@ https://tv-trtarabi.live.trt.com.tr/master.m3u8
 https://mn-nl.mncdn.com/blutv_trtkurdi2/smil:trtkurdi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
-#EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/60.m3u8
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 
 #EXTINF:-1 tvg-name="CNN TÜRK" tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png" group-title="HABER",CNN TÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
