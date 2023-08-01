@@ -790,7 +790,7 @@ https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 
 #EXTINF:-1 tvg-name="BENGÜ TÜRK" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="HABER",BENGÜ TÜRK
-https://live.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
+https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
 
 #EXTINF:-1 tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
