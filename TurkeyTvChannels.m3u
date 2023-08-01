@@ -104,7 +104,28 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 https://patlak.trgoals430.xyz/yayinss2.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR
-https://new.cache-stream.workers.dev/stream/UCzzylIZKbeIDhohxAaQFy1Q/live.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
+#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=patlak.trgoals430.xyz
+https://patlak.trgoals430.xyz/yayint1.m3u8
+
+#EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
+#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=patlak.trgoals430.xyz
+https://patlak.trgoals430.xyz/yayint2.m3u8
+
+#EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
+#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=patlak.trgoals430.xyz
+https://patlak.trgoals430.xyz/yayint3.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://s1.superonline.net/SiteAssets/Genel/channels/eurosport_1.png?v=20171027101217" group-title="SPOR",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
