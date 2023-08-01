@@ -15,13 +15,21 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinstar.m3u8
 
-#EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 | A" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-referrer=https://taraftarium1.pro/
 #EXTVLCOPT:http-origin=https://taraftarium1.pro
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinb2.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 | B" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2 | B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/3.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 | A" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="SPOR",BEIN SPORTS 3 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
@@ -104,12 +112,12 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 https://patlak.trgoals430.xyz/yayinss2.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayint1.m3u8
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/14.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
@@ -170,13 +178,13 @@ https://mn-nl.mncdn.com/blutv_trtsporyildiz_2/smil:trtsporyildiz.smil/playlist.m
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS HABER" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" group-title="SPOR",BEIN SPORTS HABER
-https://live.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
+https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 
 #EXTINF:-1 tvg-name="A SPOR" tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="SPOR",A SPOR
-https://live.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
+https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 
 #EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="SPOR",FENERBAHÇE TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/feed/fbtv.m3u8
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/fbtv/fbtv.m3u8
 
 #EXTINF:-1 tvg-name="GALATASARAY TV" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="SPOR",GALATASARAY TV
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
