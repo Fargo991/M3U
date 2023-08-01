@@ -63,7 +63,7 @@ https://patlak.trgoals430.xyz/yayinb4.m3u8
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinb5.m3u8
 
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png" group-title="SPOR",BEIN SPORTS MAX 1
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-1-hd.png" group-title="SPOR",BEIN SPORTS MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-referrer=https://taraftarium1.pro/
 #EXTVLCOPT:http-origin=https://taraftarium1.pro
@@ -71,7 +71,7 @@ https://patlak.trgoals430.xyz/yayinb5.m3u8
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinbm1.m3u8
 
-#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/bein-sports-max-1-hd-buyuk.png" group-title="SPOR",BEIN SPORTS MAX 2
+#EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-2-hd.png" group-title="SPOR",BEIN SPORTS MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-referrer=https://taraftarium1.pro/
 #EXTVLCOPT:http-origin=https://taraftarium1.pro
