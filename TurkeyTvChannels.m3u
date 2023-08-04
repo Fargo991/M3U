@@ -1,4 +1,13 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-name="GÜNÜN MAÇI" tvg-logo="https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-desktop/f_png/mls-stl-prd/zjb7vwx1tm8agwst941g.png" group-title="SPOR",GÜNÜN MAÇI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
+#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=patlak.trgoals430.xyz
+https://patlak.trgoals430.xyz/yayinstar.m3u8
+
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 | A" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SPOR",BEIN SPORTS 1 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
@@ -13,7 +22,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 #EXTVLCOPT:http-origin=https://taraftarium1.pro
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinstar.m3u8
+https://patlak.trgoals430.xyz/yayin1.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 | A" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
