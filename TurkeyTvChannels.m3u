@@ -120,6 +120,22 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinss2.m3u8
 
+#EXTINF:-1 tvg-name="SMART SPOR 1 | A" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="SPOR",SMART SPOR 1 | A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
+#EXTVLCOPT:http-origin=https://tvlesabahis5.com
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=live.trsport.xyz
+https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/9.m3u8
+
+#EXTINF:-1 tvg-name="SMART SPOR 1 | B" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="SPOR",SMART SPOR 1 | B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
+#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=patlak.trgoals430.xyz
+https://patlak.trgoals430.xyz/yayinsmarts.m3u8
+
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
