@@ -209,13 +209,20 @@ https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 
 #EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="SPOR",FENERBAHÇE TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/fbtv/fbtv.m3u8
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/298.m3u8
 
 #EXTINF:-1 tvg-name="GALATASARAY TV" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="SPOR",GALATASARAY TV
-https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/297.m3u8
 
-
-#EXTINF:-1 tvg-name="TEST 1" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 1
+#EXTINF:-1 tvg-name="TEST 1" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -223,7 +230,7 @@ https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/1.m3u8
 
-#EXTINF:-1 tvg-name="TEST 2" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 2
+#EXTINF:-1 tvg-name="TEST 2" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -231,7 +238,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/1.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/2.m3u8
 
-#EXTINF:-1 tvg-name="TEST 3" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 3
+#EXTINF:-1 tvg-name="TEST 3" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -239,7 +246,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/2.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/3.m3u8
 
-#EXTINF:-1 tvg-name="TEST 4" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 4
+#EXTINF:-1 tvg-name="TEST 4" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -247,7 +254,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/3.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/4.m3u8
 
-#EXTINF:-1 tvg-name="TEST 5" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 5
+#EXTINF:-1 tvg-name="TEST 5" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -255,7 +262,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/4.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/5.m3u8
 
-#EXTINF:-1 tvg-name="TEST 6" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 6
+#EXTINF:-1 tvg-name="TEST 6" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -263,7 +270,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/5.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/6.m3u8
 
-#EXTINF:-1 tvg-name="TEST 7" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 7
+#EXTINF:-1 tvg-name="TEST 7" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -271,7 +278,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/6.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/7.m3u8
 
-#EXTINF:-1 tvg-name="TEST 8" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 8
+#EXTINF:-1 tvg-name="TEST 8" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -279,7 +286,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/7.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 
-#EXTINF:-1 tvg-name="TEST 9" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 9
+#EXTINF:-1 tvg-name="TEST 9" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -287,7 +294,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/9.m3u8
 
-#EXTINF:-1 tvg-name="TEST 10" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 10
+#EXTINF:-1 tvg-name="TEST 10" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -295,7 +302,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/9.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/10.m3u8
 
-#EXTINF:-1 tvg-name="TEST 11" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 11
+#EXTINF:-1 tvg-name="TEST 11" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -303,7 +310,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/10.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/11.m3u8
 
-#EXTINF:-1 tvg-name="TEST 12" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 12
+#EXTINF:-1 tvg-name="TEST 12" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -311,7 +318,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/11.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 
-#EXTINF:-1 tvg-name="TEST 13" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 13
+#EXTINF:-1 tvg-name="TEST 13" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -319,7 +326,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/13.m3u8
 
-#EXTINF:-1 tvg-name="TEST 14" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 14
+#EXTINF:-1 tvg-name="TEST 14" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -327,7 +334,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/13.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/14.m3u8
 
-#EXTINF:-1 tvg-name="TEST 15" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 15
+#EXTINF:-1 tvg-name="TEST 15" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -335,7 +342,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/14.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/15.m3u8
 
-#EXTINF:-1 tvg-name="TEST 16" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 16
+#EXTINF:-1 tvg-name="TEST 16" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -343,7 +350,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/15.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/16.m3u8
 
-#EXTINF:-1 tvg-name="TEST 17" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 17
+#EXTINF:-1 tvg-name="TEST 17" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -351,7 +358,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/16.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/17.m3u8
 
-#EXTINF:-1 tvg-name="TEST 18" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 18
+#EXTINF:-1 tvg-name="TEST 18" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -359,7 +366,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/17.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/18.m3u8
 
-#EXTINF:-1 tvg-name="TEST 19" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 19
+#EXTINF:-1 tvg-name="TEST 19" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -367,7 +374,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/18.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/19.m3u8
 
-#EXTINF:-1 tvg-name="TEST 20" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 20
+#EXTINF:-1 tvg-name="TEST 20" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -375,7 +382,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/19.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/20.m3u8
 
-#EXTINF:-1 tvg-name="TEST 21" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 21
+#EXTINF:-1 tvg-name="TEST 21" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -383,7 +390,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/20.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/21.m3u8
 
-#EXTINF:-1 tvg-name="TEST 22" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 22
+#EXTINF:-1 tvg-name="TEST 22" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -391,7 +398,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/21.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/22.m3u8
 
-#EXTINF:-1 tvg-name="TEST 23" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 23
+#EXTINF:-1 tvg-name="TEST 23" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -399,7 +406,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/22.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/23.m3u8
 
-#EXTINF:-1 tvg-name="TEST 24" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 24
+#EXTINF:-1 tvg-name="TEST 24" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -407,7 +414,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/23.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/24.m3u8
 
-#EXTINF:-1 tvg-name="TEST 25" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 25
+#EXTINF:-1 tvg-name="TEST 25" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -415,7 +422,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/24.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/25.m3u8
 
-#EXTINF:-1 tvg-name="TEST 26" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 26
+#EXTINF:-1 tvg-name="TEST 26" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 26
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -423,7 +430,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/25.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/26.m3u8
 
-#EXTINF:-1 tvg-name="TEST 27" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 27
+#EXTINF:-1 tvg-name="TEST 27" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 27
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -431,7 +438,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/26.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/27.m3u8
 
-#EXTINF:-1 tvg-name="TEST 28" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 28
+#EXTINF:-1 tvg-name="TEST 28" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -439,7 +446,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/27.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/28.m3u8
 
-#EXTINF:-1 tvg-name="TEST 29" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 29
+#EXTINF:-1 tvg-name="TEST 29" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -447,7 +454,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/28.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/29.m3u8
 
-#EXTINF:-1 tvg-name="TEST 30" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 30
+#EXTINF:-1 tvg-name="TEST 30" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -455,7 +462,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/29.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/30.m3u8
 
-#EXTINF:-1 tvg-name="TEST 31" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 31
+#EXTINF:-1 tvg-name="TEST 31" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 31
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -463,7 +470,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/30.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/31.m3u8
 
-#EXTINF:-1 tvg-name="TEST 32" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 32
+#EXTINF:-1 tvg-name="TEST 32" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -471,7 +478,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/31.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/32.m3u8
 
-#EXTINF:-1 tvg-name="TEST 33" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 33
+#EXTINF:-1 tvg-name="TEST 33" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 33
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -479,7 +486,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/32.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/33.m3u8
 
-#EXTINF:-1 tvg-name="TEST 34" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 34
+#EXTINF:-1 tvg-name="TEST 34" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 34
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -487,7 +494,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/33.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/34.m3u8
 
-#EXTINF:-1 tvg-name="TEST 35" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 35
+#EXTINF:-1 tvg-name="TEST 35" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 35
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -495,7 +502,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/34.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/35.m3u8
 
-#EXTINF:-1 tvg-name="TEST 36" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 36
+#EXTINF:-1 tvg-name="TEST 36" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -503,7 +510,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/35.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/36.m3u8
 
-#EXTINF:-1 tvg-name="TEST 37" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 37
+#EXTINF:-1 tvg-name="TEST 37" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 37
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -511,7 +518,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/36.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/37.m3u8
 
-#EXTINF:-1 tvg-name="TEST 38" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 38
+#EXTINF:-1 tvg-name="TEST 38" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 38
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -519,7 +526,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/37.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/38.m3u8
 
-#EXTINF:-1 tvg-name="TEST 39" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 39
+#EXTINF:-1 tvg-name="TEST 39" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 39
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -527,7 +534,7 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/38.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/39.m3u8
 
-#EXTINF:-1 tvg-name="TEST 40" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 40
+#EXTINF:-1 tvg-name="TEST 40" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 40
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -535,35 +542,35 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/39.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/40.m3u8
 
-#EXTINF:-1 tvg-name="TEST 41" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 41
+#EXTINF:-1 tvg-name="TEST 41" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 41
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
 #EXTVLCOPT:http-origin=https://olahdplay.xyz
 #EXTVLCOPT:http-accept=*/*
 https://webudit.cdndac.lol/lb/premium62/index.m3u8
 
-#EXTINF:-1 tvg-name="TEST 42" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 42
+#EXTINF:-1 tvg-name="TEST 42" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
 #EXTVLCOPT:http-origin=https://olahdplay.xyz
 #EXTVLCOPT:http-accept=*/*
 https://ddh1.cdndac.lol/ddh1/premium62/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TEST 43" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 43
+#EXTINF:-1 tvg-name="TEST 43" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://olahdplay.xyz/
 #EXTVLCOPT:http-origin=https://olahdplay.xyz
 #EXTVLCOPT:http-accept=*/*
 https://ddy2.cdndac.lol/ddy2/premium455/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TEST 44" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 44
+#EXTINF:-1 tvg-name="TEST 44" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://kist.4macekle.com/
 #EXTVLCOPT:http-origin=https://kist.4macekle.com
 #EXTVLCOPT:http-accept=*/*
 https://cdn.finlabam.tk/test/chann3/playlist.m3u8?token=33b9a4d09decbba5c74fcdcb154b4b07
 
-#EXTINF:-1 tvg-name="TEST 45" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 45
+#EXTINF:-1 tvg-name="TEST 45" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-referrer=https://taraftarium1.pro/
 #EXTVLCOPT:http-origin=https://taraftarium1.pro
@@ -571,7 +578,7 @@ https://cdn.finlabam.tk/test/chann3/playlist.m3u8?token=33b9a4d09decbba5c74fcdcb
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinstar.m3u8
 
-#EXTINF:-1 tvg-name="TEST 46" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 46
+#EXTINF:-1 tvg-name="TEST 46" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 46
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-referrer=https://taraftarium1.pro/
 #EXTVLCOPT:http-origin=https://taraftarium1.pro
@@ -579,13 +586,27 @@ https://patlak.trgoals430.xyz/yayinstar.m3u8
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinb2.m3u8
 
-#EXTINF:-1 tvg-name="TEST 47" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="SPOR",TEST 47
+#EXTINF:-1 tvg-name="TEST 47" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 47
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
 #EXTVLCOPT:http-referrer=https://taraftarium1.pro/
 #EXTVLCOPT:http-origin=https://taraftarium1.pro
 #EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=patlak.trgoals430.xyz
 https://patlak.trgoals430.xyz/yayinb3.m3u8
+
+#EXTINF:-1 tvg-name="TRT 4K" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-4k-televizyon-kanali.2aae74a.png" group-title="ULUSAL",TRT 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/40.m3u8
+
+#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="ULUSAL",TRT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=trt1dvr.blutv.com/
+https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
 
 #EXTINF:-1 tvg-name="STAR TV" tvg-logo="https://i.ibb.co/DYyDzGV/star22tv.png" group-title="ULUSAL",STAR TV
 https://dogus-live.daioncdn.net/startv/startv.m3u8
@@ -611,19 +632,13 @@ https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 #EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/8.m3u8
 
-#EXTINF:-1 tvg-name="TRT 4K" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-4k-televizyon-kanali.2aae74a.png" group-title="ULUSAL",TRT 4K
+#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
-#EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/40.m3u8
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="ULUSAL",TRT 1
+#EXTINF:-1 tvg-name="TV 8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL",TV 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:http-host=trt1dvr.blutv.com/
-https://trt1dvr.blutv.com/blutv_trt1_dvr2/live.m3u8
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 
 #EXTINF:-1 tvg-name="KANAL 7" tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" group-title="ULUSAL",KANAL 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -674,14 +689,6 @@ https://mn-nl.mncdn.com/blutv_kontv2/live.m3u8
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 
-#EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-
-#EXTINF:-1 tvg-name="TV 8" tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="ULUSAL",TV 8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-
 #EXTINF:-1 tvg-name="TEVE 2" tvg-logo="https://i.ibb.co/1Z22dCY/teve2.png" group-title="ULUSAL",TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 
@@ -690,38 +697,6 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TRT AVAZ" tvg-logo="https://i.ibb.co/xzZk0Yq/trtavaz.png" group-title="ULUSAL",TRT AVAZ
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="ÜLKE TV" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="HABER",ÜLKE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
-
-#EXTINF:-1 tvg-name="KANAL B" tvg-logo="http://www.kanalb.com.tr/assets/images/logo/1683890679Kanal_B_logosu.png" group-title="HABER",KANAL B
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
-
-#EXTINF:-1 tvg-name="EKO TÜRK" tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="HABER",EKO TÜRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
-
-#EXTINF:-1 tvg-name="TRT ARABIA" tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png" group-title="HABER",TRT ARABIA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-name="TRT KURDI" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-kurdi-televizyon-kanali.3f1cba4.png" group-title="HABER",TRT KURDI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_trtkurdi2/smil:trtkurdi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.ibb.co/9c7MvWX/ntv.png" group-title="HABER",NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
@@ -737,6 +712,13 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTVLCOPT:trthaberdvr.blutv.com
 https://trthaberdvr.blutv.com/blutv_trthaber_dvr2/live.m3u8
 
+#EXTINF:-1 tvg-name="ÜLKE TV" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" group-title="HABER",ÜLKE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+
 #EXTINF:-1 tvg-name="HABERTÜRK" tvg-logo="https://i.ibb.co/wdwm0fn/haberturk.png" group-title="HABER",HABERTÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.blutv.com/
@@ -751,12 +733,12 @@ https://haberturkdvr.blutv.com/blutv_haberturk_dvr2/live.m3u8
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_haberglobal_dvr/live.m3u8
 
-#EXTINF:-1 tvg-name="KRT" tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="HABER",KRT
+#EXTINF:-1 tvg-name="TV 100" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.blutv.com/
 #EXTVLCOPT:http-origin=https://www.blutv.com
 #EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_krt_live_dvr/live.m3u8
+https://mn-nl.mncdn.com/blutv_tv1002_dvr/live.m3u8
 
 #EXTINF:-1 tvg-name="24" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="HABER",24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -765,26 +747,42 @@ https://mn-nl.mncdn.com/blutv_krt_live_dvr/live.m3u8
 #EXTVLCOPT:kanal24.blutv.com
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 
+#EXTINF:-1 tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/51.m3u8
+
+#EXTINF:-1 tvg-name="TV NET" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="HABER",TV NET
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-1 tvg-name="AKİT TV" tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="HABER",AKİT TV
+http://akittv-live.ercdn.net/akittv/akittv.m3u8
+
+#EXTINF:-1 tvg-name="BBN TÜRK" tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png" group-title="HABER",BBN TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
+
+#EXTINF:-1 tvg-name="BENGÜ TÜRK" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="HABER",BENGÜ TÜRK
+https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
+
+#EXTINF:-1 tvg-name="KRT" tvg-logo="https://i.ibb.co/ZT2fQq3/krt.png" group-title="HABER",KRT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_krt_live_dvr/live.m3u8
+
 #EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-logo="https://i.ibb.co/B40rjP3/szc1.png" group-title="HABER",SÖZCÜ TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.blutv.com/
 #EXTVLCOPT:http-origin=https://www.blutv.com
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_szctv_dvr/live.m3u8
-
-#EXTINF:-1 tvg-name="TV 100" tvg-logo="https://i.ibb.co/bLpTdYZ/tv100.png" group-title="HABER",TV 100
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_tv1002_dvr/live.m3u8
-
-#EXTINF:-1 tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_tgrthaber2_dvr/live.m3u8
 
 #EXTINF:-1 tvg-name="HALK TV" tvg-logo="https://i.ibb.co/BtYMK4q/halk21a.png" group-title="HABER",HALK TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -800,27 +798,6 @@ https://mn-nl.mncdn.com/blutv_halktv2_dvr/live.m3u8
 #EXTVLCOPT:tele1dvr.blutv.com
 https://tele1dvr.blutv.com/blutv_tele1_dvr2/live.m3u8
 
-#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="HABER",BLOOMBERG HT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
-
-#EXTINF:-1 tvg-name="TRT WORLD" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="HABER",TRT WORLD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
-
-#EXTINF:-1 tvg-name="BBN TÜRK" tvg-logo="https://i.ibb.co/FDjkCFQ/bbnturk.png" group-title="HABER",BBN TÜRK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
-
 #EXTINF:-1 tvg-name="FLASH HABER" tvg-logo="https://i.ibb.co/F5FcvbZ/flash4ok.png" group-title="HABER",FLASH HABER
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.blutv.com/
@@ -828,30 +805,12 @@ https://mn-nl.mncdn.com/blutv_bbnturk/live.m3u8
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_flashtv/live.m3u8
 
-#EXTINF:-1 tvg-name="DHA" tvg-logo="https://i.ibb.co/K6BKFqY/dha.png" group-title="HABER",DHA
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TBMM TV" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="HABER",TBMM TV
-https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-
-#EXTINF:-1 tvg-name="ANADOLU AJANSI" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="HABER",ANADOLU AJANSI
-http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ULUSAL TV" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="HABER",ULUSAL TV
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-
-#EXTINF:-1 tvg-name="TV 5" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="HABER",TV 5
-https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
-
-#EXTINF:-1 tvg-name="BENGÜ TÜRK" tvg-logo="https://i.ibb.co/0MHPk8y/benguturk.png" group-title="HABER",BENGÜ TÜRK
-https://new.cache-stream.workers.dev/stream/UChNgvcVZ_ggDdZ0zCcuuzFw/live.m3u8
-
-#EXTINF:-1 tvg-name="A HABER" tvg-logo="https://i.ibb.co/1X8nWHc/ahaber.png" group-title="HABER",A HABER
+#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-logo="https://i.ibb.co/HXKrJRC/blght22.png" group-title="HABER",BLOOMBERG HT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
-#EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/51.m3u8
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 
 #EXTINF:-1 tvg-name="A PARA" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA=w240-h480-rw" group-title="HABER",A PARA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -860,17 +819,65 @@ https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/51.
 #EXTVLCOPT:http-host=filboxhemen.com.tr
 https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/53.m3u8
 
-#EXTINF:-1 tvg-name="TV NET" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="HABER",TV NET
-https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 tvg-name="EKO TÜRK" tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="HABER",EKO TÜRK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_ekoturk2/live.m3u8
 
-#EXTINF:-1 tvg-name="AKİT TV" tvg-logo="https://i.ibb.co/B4XX5Vx/akittv.png" group-title="HABER",AKİT TV
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 tvg-name="KANAL B" tvg-logo="http://www.kanalb.com.tr/assets/images/logo/1683890679Kanal_B_logosu.png" group-title="HABER",KANAL B
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_kanalb2/live.m3u8
+
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-logo="https://i.ibb.co/vJJzR8G/tgrthab22.png" group-title="HABER",TGRT HABER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_tgrthaber2_dvr/live.m3u8
+
+#EXTINF:-1 tvg-name="ULUSAL TV" tvg-logo="https://i.ibb.co/tXdf2YF/ulusal22.png" group-title="HABER",ULUSAL TV
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+
+#EXTINF:-1 tvg-name="TV 5" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="HABER",TV 5
+https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 
 #EXTINF:-1 tvg-name="ARTI TV" tvg-logo="https://i.ibb.co/y04nCSJ/artii.png" group-title="HABER",ARTI TV
-https://live.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
+https://new.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
 
 #EXTINF:-1 tvg-name="YOL TV" tvg-logo="https://i.ibb.co/hB9yNXV/yol22.png" group-title="HABER",YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
+
+#EXTINF:-1 tvg-name="ANADOLU AJANSI" tvg-logo="https://i.ibb.co/jLd8Fcb/aa.png" group-title="HABER",ANADOLU AJANSI
+http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="DHA" tvg-logo="https://i.ibb.co/K6BKFqY/dha.png" group-title="HABER",DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TBMM TV" tvg-logo="https://i.ibb.co/BN9tk1q/tbmm22.png" group-title="HABER",TBMM TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-1 tvg-name="TRT WORLD" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-title="HABER",TRT WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtworld2/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT ARABIA" tvg-logo="https://i.ibb.co/vPkb8TQ/trtar.png" group-title="HABER",TRT ARABIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT KURDI" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-kurdi-televizyon-kanali.3f1cba4.png" group-title="HABER",TRT KURDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtkurdi2/smil:trtkurdi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Investigation_Discovery_Logo_2020.png" group-title="BELGESEL/YAŞAM",DISCOVERY ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -947,12 +954,12 @@ https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTVLCOPT:ps-643e9993fb6fc118b5bdc285-qpalwses.veset.cloud
 https://ps-643e9993fb6fc118b5bdc285-qpalwses.veset.cloud/hls/output_stream_name/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT DİYANET ÇOCUK" tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png" group-title="ÇOCUK/EĞİTİM",TRT DİYANET ÇOCUK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:http-host=mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_trtcocukdiyanet/live.m3u8
+#EXTINF:-1 tvg-name="FILODI" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/30/FilTV_Logo.png" group-title="DİZİ/SİNEMA",FILODI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/1280.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇOCUK/EĞİTİM",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -960,6 +967,76 @@ https://mn-nl.mncdn.com/blutv_trtcocukdiyanet/live.m3u8
 #EXTVLCOPT:http-origin=https://www.blutv.com
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_cartoonnetwork/live.m3u8
+
+#EXTINF:-1 tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="ÇOCUK/EĞİTİM",BOOMERANG HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_boomerang/live.m3u8
+
+#EXTINF:-1 tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="ÇOCUK/EĞİTİM",TRT ÇOCUK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtcocuk_2/smil:trtcocuk.smil/playlist.m3u8?DVR=
+
+#EXTINF:-1 tvg-name="TRT DİYANET ÇOCUK" tvg-logo="https://i.ibb.co/qDF8pHQ/tdcc.png" group-title="ÇOCUK/EĞİTİM",TRT DİYANET ÇOCUK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://www.blutv.com/
+#EXTVLCOPT:http-origin=https://www.blutv.com
+#EXTVLCOPT:http-host=mn-nl.mncdn.com
+https://mn-nl.mncdn.com/blutv_trtcocukdiyanet/live.m3u8
+
+#EXTINF:-1 tvg-name="MİNİKA GO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MinikaGO_Logo.png/800px-MinikaGO_Logo.png" group-title="ÇOCUK/EĞİTİM",MİNİKA GO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/92.m3u8
+
+#EXTINF:-1 tvg-name="MİNİKA ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="ÇOCUK/EĞİTİM",MİNİKA ÇOCUK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/94.m3u8
+
+#EXTINF:-1 tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/45/BabyTV.png?20090612045655" group-title="ÇOCUK/EĞİTİM",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/90.m3u8
+
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/604px-Nick_Jr._logo_2009.svg.png" group-title="ÇOCUK/EĞİTİM",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/91.m3u8
+
+#EXTINF:-1 tvg-name="CBEEBIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/480px-CBeebies.svg.png?20230327000519" group-title="ÇOCUK/EĞİTİM",CBEEBIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/100.m3u8
+
+#EXTINF:-1 tvg-name="DA VINCI KIDS" tvg-logo="https://scontent.fist7-2.fna.fbcdn.net/v/t39.30808-6/301143879_387149890246887_4690798007467141269_n.png?_nc_cat=102&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ikpbVWijslwAX_aTUo_&_nc_ht=scontent.fist7-2.fna&oh=00_AfDoa0g-IwVdRm6t3uPJ0UmEtgMv2NNTQWuoiNrF6IFC7A&oe=64D1A741" group-title="ÇOCUK/EĞİTİM",DA VINCI KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/101.m3u8
+
+#EXTINF:-1 tvg-name="NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png?20110729220922" group-title="ÇOCUK/EĞİTİM",NICK TOONS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
+#EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/103.m3u8
 
 #EXTINF:-1 tvg-name="TRT EBA İLKOKUL" tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png" group-title="ÇOCUK/EĞİTİM",TRT EBA İLKOKUL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -981,20 +1058,6 @@ https://mn-nl.mncdn.com/blutv_ebao2/live.m3u8
 #EXTVLCOPT:http-origin=https://www.blutv.com
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_ebal2/live.m3u8
-
-#EXTINF:-1 tvg-name="BOOMERANG HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png" group-title="ÇOCUK/EĞİTİM",BOOMERANG HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_boomerang/live.m3u8
-
-#EXTINF:-1 tvg-name="TRT ÇOCUK" tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="ÇOCUK/EĞİTİM",TRT ÇOCUK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://www.blutv.com/
-#EXTVLCOPT:http-origin=https://www.blutv.com
-#EXTVLCOPT:http-host=mn-nl.mncdn.com
-https://mn-nl.mncdn.com/blutv_trtcocuk_2/smil:trtcocuk.smil/playlist.m3u8?DVR=
 
 #EXTINF:-1 tvg-name="DİYANET TV" tvg-logo="https://i.ibb.co/k9phm3v/diyanettv.png" group-title="DİNİ",DİYANET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
