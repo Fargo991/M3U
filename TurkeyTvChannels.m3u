@@ -212,18 +212,10 @@ https://new.cache-stream.workers.dev/stream/UCPe9vNjHF1kEExT5kHwc7aw/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCJElRTCNEmLemgirqvsW63Q/live.m3u8
 
 #EXTINF:-1 tvg-name="FENERBAHÇE TV" tvg-logo="https://i.ibb.co/867fC4z/fbtv22a.png" group-title="SPOR",FENERBAHÇE TV
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
-#EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/298.m3u8
+http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/575
 
 #EXTINF:-1 tvg-name="GALATASARAY TV" tvg-logo="https://i.ibb.co/SwwjnF5/gstv.png" group-title="SPOR",GALATASARAY TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
-#EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/297.m3u8
+http://www.premiumiptvmk.com:8080/adastream/J2DVrYWnpTu3Sk4W/618
 
 #EXTINF:-1 tvg-name="TEST 1" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
