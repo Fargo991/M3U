@@ -137,6 +137,9 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/9.m3u8
 https://patlak.trgoals430.xyz/yayinsmarts.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR
+https://new.cache-stream.workers.dev/stream/UCzzylIZKbeIDhohxAaQFy1Q/live.m3u8
+
+#EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
 #EXTVLCOPT:http-referrer=https://tvlesabahis5.com/
 #EXTVLCOPT:http-origin=https://tvlesabahis5.com
@@ -844,7 +847,7 @@ https://mn-nl.mncdn.com/blutv_tgrthaber2_dvr/live.m3u8
 https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 
 #EXTINF:-1 tvg-name="TV 5" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png" group-title="HABER",TV 5
-https://live.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
+https://new.cache-stream.workers.dev/stream/UCP-0oW3M7DpjmPDutckOjiA/live.m3u8
 
 #EXTINF:-1 tvg-name="ARTI TV" tvg-logo="https://i.ibb.co/y04nCSJ/artii.png" group-title="HABER",ARTI TV
 https://new.cache-stream.workers.dev/stream/UCxVicskgBc8OD66iLKc7Uaw/live.m3u8
