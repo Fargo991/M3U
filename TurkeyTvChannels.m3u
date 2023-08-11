@@ -177,10 +177,11 @@ https://mn-nl.mncdn.com/blutv_eurosport1/eurosport1_hd.smil/index.m3u8
 #EXTVLCOPT:mn-nl.mncdn.com
 https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT 8,5" tvg-logo="https://i.hbrcdn.com/haber/2022/10/12/tv8-5-8-bucuk-canli-izle-12-ekim-2022-tv-8-5-15355125_5401_amp.jpg" group-title="SPOR",TRT 8,5
+#EXTINF:-1 tvg-name="TV 8,5" tvg-logo="https://i.hbrcdn.com/haber/2022/10/12/tv8-5-8-bucuk-canli-izle-12-ekim-2022-tv-8-5-15355125_5401_amp.jpg" group-title="SPOR",TV 8,5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=stream2.filbox.com.tr
 https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/25/index.m3u8
 
@@ -593,6 +594,7 @@ https://patlak.trgoals430.xyz/yayinb3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
+#EXTVLCOPT:http-accept=*/*
 #EXTVLCOPT:http-host=stream2.filbox.com.tr
 https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/40/index.m3u8
 
@@ -624,8 +626,9 @@ https://foxtvdvr.blutv.com/blutv_foxtv_dvr2/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/8.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/8/index.m3u8
 
 #EXTINF:-1 tvg-name="KANAL D" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" group-title="ULUSAL",KANAL D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -746,8 +749,9 @@ https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/51.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/51/index.m3u8
 
 #EXTINF:-1 tvg-name="TV NET" tvg-logo="https://i.ibb.co/1RWhvy4/tvnet.png" group-title="HABER",TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
@@ -811,8 +815,9 @@ https://mn-nl.mncdn.com/blutv_bloomberght_dvr/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/53.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/53/index.m3u8
 
 #EXTINF:-1 tvg-name="EKO TÜRK" tvg-logo="https://i.ibb.co/xS3zLQr/ekoturk.png" group-title="HABER",EKO TÜRK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -953,8 +958,9 @@ https://ps-643e9993fb6fc118b5bdc285-qpalwses.veset.cloud/hls/output_stream_name/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/1280.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/1280/index.m3u8
 
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇOCUK/EĞİTİM",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -988,50 +994,57 @@ https://mn-nl.mncdn.com/blutv_trtcocukdiyanet/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/92.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/92/index.m3u8
 
 #EXTINF:-1 tvg-name="MİNİKA ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png" group-title="ÇOCUK/EĞİTİM",MİNİKA ÇOCUK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/94.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/94/index.m3u8
 
 #EXTINF:-1 tvg-name="BABY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/45/BabyTV.png?20090612045655" group-title="ÇOCUK/EĞİTİM",BABY TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/90.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/90/index.m3u8
 
 #EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/604px-Nick_Jr._logo_2009.svg.png" group-title="ÇOCUK/EĞİTİM",NICK JR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/91.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/91/index.m3u8
 
 #EXTINF:-1 tvg-name="CBEEBIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/480px-CBeebies.svg.png?20230327000519" group-title="ÇOCUK/EĞİTİM",CBEEBIES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/100.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/100/index.m3u8
 
 #EXTINF:-1 tvg-name="DA VINCI KIDS" tvg-logo="https://scontent.fist7-2.fna.fbcdn.net/v/t39.30808-6/301143879_387149890246887_4690798007467141269_n.png?_nc_cat=102&cb=99be929b-3346023f&ccb=1-7&_nc_sid=e3f864&_nc_ohc=ikpbVWijslwAX_aTUo_&_nc_ht=scontent.fist7-2.fna&oh=00_AfDoa0g-IwVdRm6t3uPJ0UmEtgMv2NNTQWuoiNrF6IFC7A&oe=64D1A741" group-title="ÇOCUK/EĞİTİM",DA VINCI KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/101.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/101/index.m3u8
 
 #EXTINF:-1 tvg-name="NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png?20110729220922" group-title="ÇOCUK/EĞİTİM",NICK TOONS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/103.m3u8
+#EXTVLCOPT:http-accept=*/*
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/103/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT EBA İLKOKUL" tvg-logo="https://i.ibb.co/zfwmCCp/ilkoku22.png" group-title="ÇOCUK/EĞİTİM",TRT EBA İLKOKUL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
