@@ -181,8 +181,8 @@ https://mn-nl.mncdn.com/blutv_eurosport2/eurosport2_hd.smil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/25.m3u8
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/25/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="SPOR",TRT SPOR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
@@ -593,8 +593,8 @@ https://patlak.trgoals430.xyz/yayinb3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
-#EXTVLCOPT:http-host=filboxhemen.com.tr
-https://filboxhemen.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/filboxhemen/40.m3u8
+#EXTVLCOPT:http-host=stream2.filbox.com.tr
+https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/40/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="ULUSAL",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
