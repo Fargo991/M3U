@@ -2,11 +2,11 @@
 
 #EXTINF:-1 tvg-name="GÜNÜN MAÇI" tvg-logo="https://images.mlssoccer.com/image/private/t_keep-aspect-ratio-e-desktop/f_png/mls-stl-prd/zjb7vwx1tm8agwst941g.png" group-title="SPOR",GÜNÜN MAÇI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinstar.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinstar.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 | A" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SPOR",BEIN SPORTS 1 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -18,19 +18,19 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/12.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 1 | B" tvg-logo="https://www.digiturk.com.tr/icerik/2015logos/ligtv_hd.png" group-title="SPOR",BEIN SPORTS 1 | B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayin1.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayin1.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 | A" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinb2.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinb2.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2 | B" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv2_hd.png" group-title="SPOR",BEIN SPORTS 2 | B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -42,11 +42,11 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/3.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 | A" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="SPOR",BEIN SPORTS 3 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinb3.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinb3.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 3 | B" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv3_hd.png" group-title="SPOR",BEIN SPORTS 3 | B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -58,35 +58,35 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/6.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 4" tvg-logo="http://www.digiturk.com.tr/icerik/2015logos/ligtv4_hd.png" group-title="SPOR",BEIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinb4.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinb4.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 5" tvg-logo="https://cdn.digiturkburada.com/kanal3/kanal-buyuk/bein-sports-hd-5-buyuk.png" group-title="SPOR",BEIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinb5.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinb5.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 1" tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-1-hd.png" group-title="SPOR",BEIN SPORTS MAX 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinbm1.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinbm1.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS MAX 2" tvg-logo="https://cdn.digiturkburada.com/kanal3/bein-sports-max-2-hd.png" group-title="SPOR",BEIN SPORTS MAX 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinbm2.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinbm2.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT | A" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -98,11 +98,11 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/7.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT | B" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=604" group-title="SPOR",S SPORT | B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinss.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinss.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2 | A" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="SPOR",S SPORT 2 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -114,11 +114,11 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/8.m3u8
 
 #EXTINF:-1 tvg-name="S SPORT 2 | B" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=605" group-title="SPOR",S SPORT 2 | B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinss2.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinss2.m3u8
 
 #EXTINF:-1 tvg-name="SMART SPOR 1 | A" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="SPOR",SMART SPOR 1 | A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
@@ -130,11 +130,11 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/9.m3u8
 
 #EXTINF:-1 tvg-name="SMART SPOR 1 | B" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png" group-title="SPOR",SMART SPOR 1 | B
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayinsmarts.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayinsmarts.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR
 https://new.cache-stream.workers.dev/stream/UCzzylIZKbeIDhohxAaQFy1Q/live.m3u8
@@ -149,19 +149,19 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/14.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 2" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayint2.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayint2.m3u8
 
 #EXTINF:-1 tvg-name="TIVIBU SPOR 3" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg" group-title="SPOR",TIVIBU SPOR 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
-#EXTVLCOPT:http-referrer=https://taraftarium1.pro/
-#EXTVLCOPT:http-origin=https://taraftarium1.pro
+#EXTVLCOPT:http-referrer=https://taraftarium12.pro/
+#EXTVLCOPT:http-origin=https://taraftarium12.pro
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=patlak.trgoals430.xyz
-https://patlak.trgoals430.xyz/yayint3.m3u8
+#EXTVLCOPT:http-host=hayat.trgoals471.xyz
+https://hayat.trgoals471.xyz/yayint3.m3u8
 
 #EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://s1.superonline.net/SiteAssets/Genel/channels/eurosport_1.png?v=20171027101217" group-title="SPOR",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
