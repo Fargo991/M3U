@@ -538,33 +538,33 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/39.m3u8
 #EXTVLCOPT:http-host=live.trsport.xyz
 https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/40.m3u8
 
-#EXTINF:-1 tvg-name="TEST 41" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 41
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://olahdplay.xyz/
-#EXTVLCOPT:http-origin=https://olahdplay.xyz
-#EXTVLCOPT:http-accept=*/*
-https://webudit.cdndac.lol/lb/premium62/index.m3u8
-
 #EXTINF:-1 tvg-name="TEST 42" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://olahdplay.xyz/
-#EXTVLCOPT:http-origin=https://olahdplay.xyz
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-origin=https://livehdplay.ru
 #EXTVLCOPT:http-accept=*/*
 https://ddh1.cdndac.lol/ddh1/premium62/playlist.m3u8
 
+#EXTINF:-1 tvg-name="TEST 42" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 42
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-origin=https://livehdplay.ru
+#EXTVLCOPT:http-accept=*/*
+https://ddh1.cdndac.lol/ddh1/premium63/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TEST 43" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 43
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://olahdplay.xyz/
-#EXTVLCOPT:http-origin=https://olahdplay.xyz
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-origin=https://livehdplay.ru
 #EXTVLCOPT:http-accept=*/*
-https://ddy2.cdndac.lol/ddy2/premium455/playlist.m3u8
+https://ddh1.cdndac.lol/ddh1/premium64/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TEST 44" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 44
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://kist.4macekle.com/
-#EXTVLCOPT:http-origin=https://kist.4macekle.com
+#EXTVLCOPT:http-referrer=https://livehdplay.ru/
+#EXTVLCOPT:http-origin=https://livehdplay.ru
 #EXTVLCOPT:http-accept=*/*
-https://cdn.finlabam.tk/test/chann3/playlist.m3u8?token=33b9a4d09decbba5c74fcdcb154b4b07
+https://ddh1.cdndac.lol/ddh1/premium67/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TEST 45" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 45
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
