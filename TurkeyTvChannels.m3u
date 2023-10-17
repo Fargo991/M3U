@@ -595,8 +595,8 @@ https://patlak.trgoals430.xyz/yayinb3.m3u8
 #EXTVLCOPT:http-referrer=https://www.filbox.com.tr/
 #EXTVLCOPT:http-origin=https://www.filbox.com.tr
 #EXTVLCOPT:http-accept=*/*
-#EXTVLCOPT:http-host=stream2.filbox.com.tr
-https://stream2.filbox.com.tr/live/a6e100ce4a07e24d4c673da87f211b97/40/index.m3u8
+#EXTVLCOPT:http-host=filboxhemen.com.tr
+https://stream2.filbox.com.tr/live/7d6b0f92687edd8eb008a8b4f223f1d0/40/index.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.ibb.co/d6c87Km/trt122.png" group-title="ULUSAL",TRT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36
