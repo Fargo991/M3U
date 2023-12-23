@@ -540,10 +540,10 @@ https://live.trsport.xyz/TrSportsXYZ/aRxZqsSnGu/40.m3u8
 
 #EXTINF:-1 tvg-name="TEST 42" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTVLCOPT:http-referrer=https://livehdplay.ru/
-#EXTVLCOPT:http-origin=https://livehdplay.ru
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+#EXTVLCOPT:http-origin=https://weblivehdplay.ru
 #EXTVLCOPT:http-accept=*/*
-https://ddh1.cdndac.lol/ddh1/premium62/playlist.m3u8
+https://12.webhd.ru/ddy4/premium62/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TEST 42" tvg-logo="https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1-300x300.png" group-title="TEST",TEST 42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0
